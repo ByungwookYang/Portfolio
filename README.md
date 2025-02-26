@@ -45,10 +45,10 @@
 
 
 ## :credit_card: Certification
-- 데이터분석 준전문가(ADsP) ('2019.07.02)
-- 사회조사분석사 2급 ('2020.11.12)
-- SQL 개발자(SQLD) ('2021.10.01)
-- 빅데이터분석기사 ('2023.08.09)
+- `2019.07` 데이터분석 준전문가(ADsP)
+- `2020.11` 사회조사분석사 2급
+- `2021.10` SQL 개발자(SQLD)
+- `2023.08` 빅데이터분석기사
   
 ## :identification_card: Language Certification
 - TOEIC speaking 140(Intermedian High)
