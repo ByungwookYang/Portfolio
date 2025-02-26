@@ -39,6 +39,9 @@
 **3. :factory: LG전자 불량관리 예측모형 고도화**
 > :link: [프로젝트 설명](https://github.com/ByungwookYang/LG-Amers-5th)
 
+**4. :large_blue_diamond: 삼성전자 VD사업부 propensity model 고도화**
+
+
 
 ##  :hammer:Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/SAS-428524?style=flat&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=Latex&logoColor=white"/>
