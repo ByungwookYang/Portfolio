@@ -10,7 +10,7 @@
 - 한국외국어대학교(글로벌캠퍼스) 주전공 통계학과, 부전공 국제금융학과 졸업 (2017.03 ~ 2023.08)
 - 고려대학교 통계학과 석사과정 졸업예정 (2023.08 ~ 2025.08)
 
-## Wokr experience
+## :man_office_worker: Wokr experience
 ### <img width="97" alt="image" src="https://github.com/user-attachments/assets/4cb296a1-c290-4cb8-9153-c59d1149abf6" /> 통계청(통계데이터센터)-1년 5개월
 (202102~202112) 
 
