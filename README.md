@@ -38,5 +38,5 @@ Python, R, SQL, SAS
 - SQL 개발자(SQLD) ('2021.10.01)
 - 빅데이터분석기사 ('2023.08.09)
   
-## :card: Language Certification
+## :identification_card: Language Certification
 - TOEIC speaking 140(Intermedian High)
