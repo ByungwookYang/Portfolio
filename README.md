@@ -53,9 +53,8 @@
 ## :identification_card: Language Certification
 - TOEIC speaking 140(Intermedian High)
 
-## 👩🏻‍💻Experience
-- `2021.03 - 2022.01` 4차 산업혁명 연합동아리 TAVE 7th
-- `2024.01 - 2024.04` LG Aimers 4th (8th / 844 teams)
-- `2024.07 - 2024.09` LG Aimers 5th (9th / 740 teams)
+## :star2: Experience
+- `2022.06 - 2022.08` 데이터 청년 캠퍼스 3th 
+- `2023.09 - 2024.08` 고려대학교 통계연구소 통계부간사
 
 
