@@ -42,7 +42,7 @@
 **4. :large_blue_diamond: 삼성전자 VD사업부 propensity model 고도화**
 
 **5. :baby_chich:  MLOps를 활용한 전자상거래 관리자용 실시간 대시보드 구축**
-> :link: [프로젝트 설명][4 MLOps Presentation.pdf](https://github.com/user-attachments/files/18977447/4.MLOps.Presentation.pdf)
+> :link: [프로젝트 설명]([4 MLOps Presentation.pdf](https://github.com/user-attachments/files/18977447/4.MLOps.Presentation.pdf))
 
 
 
