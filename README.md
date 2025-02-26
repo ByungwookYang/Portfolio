@@ -50,7 +50,7 @@
 - `2021.10` SQL 개발자(SQLD)
 - `2023.08` 빅데이터분석기사
   
-## :identification_card: Language Certification
+## :identification_card: Language
 - TOEIC speaking 140(Intermedian High)
 
 ## :star2: Experience
