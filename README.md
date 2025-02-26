@@ -30,14 +30,14 @@
 
 ## :computer:Project
 
-**1. :factory: LLM을 통한 제조공정 관리자 플랫폼 개발**
+**1. :earth_asia: LLM을 통한 제조공정 관리자 플랫폼 개발**
 > :link: [프로젝트 설명](https://github.com/ByungwookYang/Manufacture-contest)
 
 **2. :speaking_head: RAG 시스템을 이용한 맞춤형 상담 채봇 개발**
 > :link: [프로젝트 설명](https://github.com/ByungwookYang/chatbot_final)
 
 **3. :factory: LG전자 불량관리 예측모형 고도화**
-> :link: [프로젝트 설명](https://github.com/ByungwookYang/Manufacture-contest)
+> :link: [프로젝트 설명](https://github.com/ByungwookYang/LG-Amers-5th)
 
 
 ##  :hammer:Skills
