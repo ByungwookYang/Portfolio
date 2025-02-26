@@ -11,7 +11,7 @@
 - 고려대학교 통계학과 석사과정 졸업예정 (2023.08 ~ 2025.08)
 
 ## Wokr experience
-### 통계청(통계데이터센터)-1년 5개월
+### <img width="97" alt="image" src="https://github.com/user-attachments/assets/4cb296a1-c290-4cb8-9153-c59d1149abf6" /> 통계청(통계데이터센터)-1년 5개월
 (202102~202112) 
 
 (202301~202307)
