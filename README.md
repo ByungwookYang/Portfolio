@@ -11,10 +11,11 @@
 - `2023.08 - 2025.08` M.S in Statistics, Korea University
 
 ## :man_office_worker: Career
-### <img width="97" alt="image" src="https://github.com/user-attachments/assets/4cb296a1-c290-4cb8-9153-c59d1149abf6" /> 
-`2021.02 – 2021.12` 통계청(통계데이터센터)-1년 5개월
+### <img width="97" alt="image" src="https://github.com/user-attachments/assets/4cb296a1-c290-4cb8-9153-c59d1149abf6" />  통계청(통계데이터센터)-1년 5개월
+`2021.02 – 2021.12` 
 
-(202301~202307)
+`2023.01 – 2023.07` 
+
 - 품질점검팀
     - 센터에서 제공하는 자료 중 행정자료16종 민간자료35종, 총51종 자료의 품질점검
     - 함수를 이용한 데이터 품질점검 코드 자동화 시스템을 구축( 다양한 조건에 따라 품질점검 결과물 도출)
