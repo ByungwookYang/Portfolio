@@ -25,8 +25,8 @@
   
 ## :trophy: Awards
 - `2022.11` 빅데이터 페스티벌(교내) 우수상(한국외국어대학교 AI교육원) - 상금 20만원 [증빙자료](https://drive.google.com/file/d/1lsLq_4Shlz1WQ0xFmW3392wURvrFiNxv/view)  
-- `2024.09` LG Aimers 해커톤 5기 9th/741teams(LG전자) - 상금 100만원
-- `2024.11` 제 4회 K-인공지능 제조데이터 분석 경진대회 장려상 6th/189teams(중소벤처기업부, 스마트제조혁신단, KAIST) - 상금 100만원
+- `2024.09` LG Aimers 해커톤 5기 9th/741teams(LG전자) - 상금 100만원 [증빙자료](https://drive.google.com/file/d/1DwP5RrFkj08uo15XFSiLvgPH5AGv61uZ/view)  
+- `2024.11` 제 4회 K-인공지능 제조데이터 분석 경진대회 장려상 6th/189teams(중소벤처기업부, 스마트제조혁신단, KAIST) - 상금 100만원 [증빙자료](https://drive.google.com/file/d/1paiydA9lDaxpB6iy4v87lCPf0qd_1AM9/view)  
 
 ## :computer:Project
 
